@@ -1,0 +1,23 @@
+body {
+    margin: 50px 0px 0px 100px;
+  }
+  a {
+    color: black;
+    font-weight: bold;
+  }
+
+  td {
+    padding: 15px;
+  }
+
+  .rightBtn {
+    float: right;
+    width: 150px;
+  }
+
+  .leftBtn {
+    float: left;
+    width: 150px;
+
+  }
+
