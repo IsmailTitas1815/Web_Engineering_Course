@@ -1,23 +1,28 @@
 body {
-    margin: 50px 0px 0px 100px;
-  }
-  a {
-    color: black;
-    font-weight: bold;
-  }
+  max-height: min-content;
+  margin: 50px 0px 0px 100px;
+  background-color: #BFBFBF ;
+}
 
-  td {
-    padding: 15px;
-  }
+a {
+  color: black;
+  font-weight: bold;
+}
 
-  .rightBtn {
-    float: right;
-    width: 150px;
-  }
+td {
+  padding: 15px;
+}
 
-  .leftBtn {
-    float: left;
-    width: 150px;
+.btn-left{
+  width: 150px;
 
-  }
+  margin-left: 100px;
+}
+.btn-right{
+  margin-left: 10px;
+  width: 150px;
+}
 
+.btn{
+  margin-bottom: 50px;
+}
